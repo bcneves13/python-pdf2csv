@@ -1,0 +1,6 @@
+pandas
+tabula-py
+tika
+camelot-py
+PyPDF2
+pdfreader
